@@ -1,0 +1,7 @@
+﻿l_turkish:
+# Immortality set age event
+ immortality_set_age.1.t:0 "Kaç yaşında olmak istiyorum?"
+ immortality_set_age.1.desc:0 "Ölümsüz olabilirim ama bu, olduğum gibi görünmem gerektiği anlamına gelmez. Ben varken biraz daha yaşlı veya daha genç görünmemin nesi yanlış?"
+ immortality_set_age.1.option.a:0 "Neden gerçek sonsuz gençliğe sahip olmasın?"
+ immortality_set_age.1.option.b:0 "Biraz daha yaşlı olmanın yanlış bir tarafı yok"
+ immortality_set_age.1.option.c:0 "Bah! Olgun bir yaşlılık gibi görünmeme izin ver!"
