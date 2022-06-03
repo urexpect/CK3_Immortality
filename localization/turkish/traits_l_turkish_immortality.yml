@@ -1,0 +1,4 @@
+﻿l_turkish:
+ trait_immortality:0 "Ölümsüzlük"
+ trait_immortality_desc:0 "Bu karakter yaşlanmanın sınırlarından kurtuldu."
+ trait_immortality_character_desc:0 "[ROOT.GetCharacter.GetFirstNameNoTooltip] yaşlanmanın sınırlarından kurtulmuştur."
